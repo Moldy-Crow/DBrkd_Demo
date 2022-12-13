@@ -3,7 +3,7 @@ module github.com/debricked/demo
 go 1.19
 
 require (
-	Update github.com/andygrunwald/go-jira to a version where the transitive dependency dgrijalva jwt-go has version 3.2.2
+	github.com/andygrunwald/go-jira v1.13.0
 	github.com/docker/cli v0.0.0-20191017083524-a8ff7f821017
 	github.com/nats-io/jwt/v2 v2.3.0
 )
